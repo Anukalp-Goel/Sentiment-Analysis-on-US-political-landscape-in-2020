@@ -5,7 +5,7 @@
 This project performs sentiment analysis on Twitter data related to the 2020 US Presidential Elections, with the goal of understanding public sentiment and its political implications. The project involves data cleaning, exploratory analysis, model training, and prediction using various machine learning techniques. The results provide insights into the US political landscape based on the sentiment of tweets.
 
 ## Files
-- `goel_1006462971_assignment3.ipynb`: The main Jupyter Notebook containing the implementation of the analysis.
+- `code.ipynb`: The main Jupyter Notebook containing the implementation of the analysis.
 - `sentiment_analysis.csv`: A dataset containing pre-labeled tweets with sentiment polarity.
 - `US_Elections_2020.csv`: A dataset of tweets related to the 2020 US Presidential Elections, with labeled sentiment and, in some cases, reasons for negative sentiment.
   
@@ -60,7 +60,7 @@ Hyperparameter tuning was performed to achieve the best accuracy.
   
 ## Instructions to Run the Project
 1. Install the necessary Python libraries (e.g., `Numpy`, `Pandas`, `NLTK`, `Scikit-learn`).
-2. Open `goel_1006462971_assignment3.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 3. Run the cells sequentially to execute the analysis.
 
 ## License
